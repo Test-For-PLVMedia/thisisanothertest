@@ -1,4 +1,4 @@
-[View Subsections](9015ce85-1bf4-421a-b427-dfee3a18377e)
+## [Click to View Subsections](d1146ff3-8f46-4b0b-a9a3-90746b1259bc)
 
 Scorevision Video Boards (Gymnasiums)
 =====================================

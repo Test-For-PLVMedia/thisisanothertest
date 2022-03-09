@@ -1,4 +1,4 @@
-[View Subsections](50d90dd9-722f-4be3-86dc-07e86539ea6d)
+## [Click to View Subsections](cf213dd4-a69f-4ed0-a1b8-906a391a3161)
 
 After Effects
 =============

@@ -1,4 +1,4 @@
-[View Subsections](be3e3fc8-2459-44f0-bc98-2af412c266be)
+## [Click to View Subsections](78710c9f-f1f7-40c2-8c1e-860689b1bca1)
 
 Equipment
 =========

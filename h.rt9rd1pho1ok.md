@@ -1,4 +1,4 @@
-[View Subsections](f9cda894-97f5-4084-aa3d-b2256f714450)
+## [Click to View Subsections](90e80a0a-15b0-4133-a057-84881eaad8de)
 
 News Package Standards
 ======================

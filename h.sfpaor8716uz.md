@@ -1,4 +1,4 @@
-[View Subsections](74b35404-0394-4e67-83fa-fa36d261fd9f)
+## [Click to View Subsections](48a98dd3-567d-4a15-8241-9cbe54ab216b)
 
 About This Manual
 =================

@@ -1,4 +1,4 @@
-[View Subsections](9b9dacbf-941d-4965-9f20-b9f99049d5df)
+## [Click to View Subsections](43fdfb52-651c-4e53-b004-c0baef7fefcc)
 
 Daktronics Video Board (Stadium)
 ================================

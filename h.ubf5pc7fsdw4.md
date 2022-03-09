@@ -1,4 +1,4 @@
-[View Subsections](fa54b74b-1295-46f4-b2cf-3106fae43bce)
+## [Click to View Subsections](634b7dbd-22cc-4fae-aa23-46ce69354802)
 
 Glamor Shots
 ============

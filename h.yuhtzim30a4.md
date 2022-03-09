@@ -1,4 +1,4 @@
-[View Subsections](46597a9c-4bfc-421a-b073-7b5fc2455585)
+## [Click to View Subsections](0643ed34-e34e-4a04-8fe7-3b561bb0905d)
 
 Tripods
 =======
