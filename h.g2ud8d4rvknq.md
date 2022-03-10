@@ -17,6 +17,7 @@ Let’s say you’re setting up at a stream, you turn on the switcher, have the 
 *   Identify the exact issue—what isn’t working, and how should it work
     *   If you don’t know how it should work, use the guide! For instance, here it would be beneficial to look over [Setting Up -> Cables and Connections](h.saa8t5379qfj#cables-and-connections) in the MOAC section.
 *   Think of what needs to go right for it to work
+*   Think of what, in that chain, is most likely to go wrong
 *   Change ONE thing at a time, switching out things that you think may not work
 
 So, in practice:  

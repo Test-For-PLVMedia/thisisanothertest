@@ -25,7 +25,9 @@ Setting up During a Stream
 *   Plug in ethernet for Wirecast, Switcher, and the Laptop.
     *   The cables for this should already be connected to the network switch. Simply find the loose ethernet ends and plug them into wirecast/switcher.
 *   Connect the PROG SDI BNC port on the switcher (right side) to the Wirecast input BNC port (wirecast only has one BNC port, it’s that one).
+*   Plug cameras into Switcher (left side, read labels).
 *   Reference [Wirecast operating](h.k6vpdgk5q6kp#gfxwirecast) for Wirecast software setup.
+*   Operate Switcher on laptop \[TODO: Link to section\]
 
 ### Tearing Down
 
@@ -35,6 +37,7 @@ Tearing down is effectively the same as setting up but in reverse, but please ke
     *   Switcher
     *   Wirecast (after shutting down properly from software or front panel)
 *   You must disconnect the program SDI going between Switcher and Wirecast
+*   You must disconnect ethernet for Wirecast
 
 We do this so that the back case does not crush these connections when we close it.
 

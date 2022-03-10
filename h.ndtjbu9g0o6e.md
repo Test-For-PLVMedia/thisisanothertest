@@ -52,12 +52,12 @@ PLCS HEX codes
 Why HEX codes? 
 ---------------
 
-HEX codes use RGB (Red, Green, and Blue) to color objects. RGB uses the primary colors of light rather than pigment (that’s CMYK: cyan, magenta, yellow, and black), which is what computers and other screens use to project an image. RGB is what will be most compatible for digital graphics. Anything not printed out should use RGB/HEX color codes. In the RARE chance that you need something printed out, convert the color to CMYK. There are often issues when it comes to using CMYK online and RGB for print. Colors won’t print correctly with RGB, and colors often seem dull digitally when using CMYK. Using the proper type of color will make your job much easier.
+HEX codes use RGB (Red, Green, and Blue) to color objects. RGB uses the primary colors of light rather than pigment (that’s CMYK: cyan, magenta, yellow, and black), which is what computers and other screens use to project an image. RGB is what will be most compatible for digital graphics. Anything not printed out should use RGB/HEX color codes. In the RARE chance that you need something printed out, convert the color to CMYK. There are often issues when it comes to using CMYK online and RGB for print. Colors won’t print correctly with RGB, and colors often seem dull digitally when using CMYK. Using the proper type of color will make your job much easier.[\[a\]](#cmnt1)
 
 What if I need to use other colors?
 -----------------------------------
 
-I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1646885123310059&usg=AOvVaw39XPFZi5vtkRvOzGA6O0lq). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
+I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1646933202842706&usg=AOvVaw2eAttFGN9yOXROCoSsOUtN). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
 
 ### Without
 
@@ -77,9 +77,9 @@ I can talk about color forever, but this is essentially all you need to know to 
 
 If you want to learn more, start here:
 
-*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646885123311716&usg=AOvVaw0PpjGNWG0P11oXnMxAG5eg)
-*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646885123312076&usg=AOvVaw0ELQOvcQdVlwBq-ZrkFIpY)
-*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646885123312388&usg=AOvVaw1NLLZlIERM35UAuQ9KFA1k)
+*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646933202844732&usg=AOvVaw1IGfR5UVvyjaBrJsxESwGC)
+*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646933202845358&usg=AOvVaw3zEbqrkDV8T91lSOO_5qIl)
+*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646933202845864&usg=AOvVaw2MS9tIyqUoLEIYBp8T--qy)
 
 Illustrator 
 ------------
@@ -130,7 +130,7 @@ Here are the tools that we use the most:
 
 ![](images/image69.png)The direct selection tool (A): Essentially the selection tool, but it can be used to isolate certain paths objects even if they're within a group.
 
-![](images/image45.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1646885123315413&usg=AOvVaw1smX3-siBd3MjezXZ9Sm7w) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
+![](images/image45.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1646933202850561&usg=AOvVaw0LgE1NxaQFm7i4WsWfrEPw) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
 
 ![](images/image80.png)The curvature tool (Shift + \`  ): Much like the pen tool, the curvature tool is used to make and edit anchor paths and objects. The difference between the tool is this lacks the ability to be as precise as the pen tool. However, it is much easier to use, and much better for creative work. With the curvature tool, you click the tool once for a curve and once for a point. You can also tell what each point is by checking to see if there’s a dot in the middle of the point. If there is, it’s a pointed edge. Like the pen tool, you can adjust the fill and stroke if necessary. Not necessarily the best for what we’ll do unless you need to get creative.
 
@@ -176,6 +176,6 @@ There isn’t as wide of a variety when it comes to what you can do when making 
 Blender
 -------
 
-Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1646885123317920&usg=AOvVaw21YJ0VlGKPCxB4o00IdpPR).
+Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1646933202854842&usg=AOvVaw3uTmnTu_k03NacpqrA5ah0).
 
 * * *

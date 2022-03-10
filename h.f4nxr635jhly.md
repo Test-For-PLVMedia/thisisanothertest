@@ -40,6 +40,7 @@ Always make sure to:
 *   Try to keep your file sizes small, when possible. We only have so much space.
     *   Delete files when no longer needed (only ever delete your own! You don’t know if someone needs something else)
 *   Keep your folders organized, in an easy-to-understand structure.
+*   Always descriptively name your files. “untitled-project(500).prproj” is never a good name for a file.
 *   Only move your own files around. If you need a copy of something, you can copy it. Never move someone else’s files around without permission.
 
 Staying Organized

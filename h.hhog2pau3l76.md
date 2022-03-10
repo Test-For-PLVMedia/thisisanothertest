@@ -4,8 +4,8 @@ title: The PLV Media Manual
 
 ## [Click to View Subsections](headers-h.fp38ucw54tqq)
 
-Social Media
-============
+Social Media[\[s\]](#cmnt19)
+============================
 
 For the academy, social media is one of the most important tools. For starters, it is our main advertising platform. We are able to advertise future events and games that PLVMedia will be either recording or streaming. We use platforms like YouTube, Facebook, Twitter, and even Instagram.
 

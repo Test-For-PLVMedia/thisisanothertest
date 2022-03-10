@@ -17,7 +17,9 @@ Planning
 *   If you are the producer please be sure to check that the studio is set up the way you would like before the start of filming.
 *   I’d recommend going there with someone else the day of filming and setting it up during your class period and maybe your lunch to test the lighting with both the video camera and DSLR.-vfIt might be helpful to also remember to get the black backdrop as flat as possible as it makes the final product look cleaner.
 *   When it comes to setting up the studio it is pretty straightforward as far as setting up the lights.
+*   The lights should be set to the colors of the school you are filming, when setting the gels make sure that for Monarchs you set both a brown and red gel over the light to make the proper marron. For the Titans the blue gels must be doubled up to make the proper shade of the blue.
 *   The lights for both schools are recommended that diffuser paper get placed over them. MAKE SURE THAT IT IS DIFFUSER PAPER and not the tissue paper that is also in the box. The diffuser paper should feel and look pretty much like wax paper. It is very different from the tissue paper that is in the box. Yet again make sure it is not the tissue paper as the tissue paper over the lights that get hot after time is a fire hazard.
+*   Aside from the lamp lights that we use for the gels there should be a soft box lift that provides a nice soft white light in the studio that I recommend using.
 *   With that light and the two side stand lights there is more than enough light and options to properly set up a lighting setup for your glamor shots, but it is ultimately up to the producer and Hoch of the overall setup for the glamor shots.
 
 #### Lights
@@ -98,11 +100,15 @@ Editing & Distribution
 *   Also editing the photos is also very important as after games we will use some of those photos to put out stat graphics for the athletes.
 *   PRIORITIZE athletes who play the first games
 *   In order to use the new glitch transition you will have to install a preset into Premiere. [See this section of the guide on how to install a preset.](h.1mhv4uau4noj#installing-a-preset-into-premiere)
+*   Download the ‘20 GLITCH TRANSITIONS - CINECOM.NET’ preset
 *   Once you have installed the preset, cut down a section from the beginning of your footage, and the same with the end of your footage. Make sure they are relatively the same duration.
+*   Open the Effects tab
 *   Go to Presets
+*   Go to the preset folder 20 GLITCH TRANSITIONS - CINECOM.NET
 *   Import your  footage into your project if you haven’t already, and Right-click to ‘Create New Sequence from Footage’
 *   Next you will copy and paste the text and logo from an already completed GIF
 *   Make sure you set the duration of the text and logo to the same length of the GIF and then edit the text to be the correct name and/or number
+*   After this, you will make a break at the beginning of the clip and the end of the clip. This is where you will apply the transition
 *   Apply the effect “Chaos Zoom” to both cutdown sections
 *   In the beginning clip, keyframe the opacity to be 0% then go to the middle of that same clip (or wherever makes the most sense) and keyframe the opacity to be 100%
 *   Do the reverse action for the ending clip (Remember this will be creating a fade to black, so make sure the fade stays in time with the chaos zoom)
@@ -151,7 +157,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646885123390414&usg=AOvVaw2ZlIcbGTbuioObpfSQo7gr) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646933202980253&usg=AOvVaw2JxTpYAc43jf3FuQN-jEMe) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

@@ -30,7 +30,7 @@ Colors
 *   Titan Blue HEX: #003466
 *   Titan Grey HEX: #c9c9c9
 
-### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646885123291018&usg=AOvVaw19GpqJjWvaxAqvpPIKduFr)
+### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646933202811720&usg=AOvVaw10USQgaN5gvPjIHFYESiO5)
 
 Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. Still should be more than good enough for 90% of projects.
 
@@ -133,11 +133,17 @@ Colors all in HEX format.
     *   Gold: #C4AE00
     *   Green: #004705
 *   \[TODO: This Down\]
+*   Omaha Burke
 *   Omaha Central Eagles
+*   Omaha Marian Crusaders
 *   Omaha North Vikings
+*   Omaha Northwest Huskies
 *   Omaha Skutt Skyhawks
+*   Omaha South Packers
 *   Omaha Westside Warriors
+*   Ralston Rams
 *   Scottsbluff Bearcats Red Paw
+*   South Sioux City Cardinals
 
 Fonts
 -----

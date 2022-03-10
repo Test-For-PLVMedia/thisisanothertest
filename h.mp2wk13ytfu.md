@@ -102,12 +102,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646885123398621&usg=AOvVaw2vs3vDnCAQ1q1PRt_8uhPR)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646933202994272&usg=AOvVaw03pOdZu3ZpDYborEAE1GVN)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646885123399197&usg=AOvVaw15pvY5knMaxjYM6QAUhbRy)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646933202995133&usg=AOvVaw08ERzrrLs3eO_ZCMlgpyf5)[\[p\]](#cmnt16)[\[q\]](#cmnt17)
 
 Event Prep
 ----------
@@ -135,7 +135,7 @@ At the beginning of the football season there are many things to do that can be 
         *   You will also contact them throughout the season to have them check over the script and make sure you have the right ad for them before each game
         *   Lastly at the end of the season you will be required to put together a sponsor report (See Sponsor Report) to send or discuss with the members of the foundation (uncertain about meeting but for sure email)
     
-    *   Sponsors - this will not be something you will have to do yearly the foundation will typically handle this for us, but if we are tasked to film new ads for some of the sponsors then you will be in constant contact with them throughout the entirety of the process
+    *   Sponsors - this will not be something you will have to do yearly the foundation will typically handle this for us, but if we are tasked to film new ads for some of the sponsors then you will be in constant contact with them throughout the entirety of the process [\[r\]](#cmnt18)
         *   As of March, 2021 the current sponsors are as follows: American Family Insurance, Gina V Physical Therapy, The Good Life, H & H, Hyvee, Jensen Tire, Midlands Place, Pinnacle Bank (Always the Monarch Titan Game Sponsor), Premier Family Medicine, Premier Waste Solutions, and the reader sponsor which is included in the script is mama’s pizza
         *   \[add info on duration and sponsors contracts\] \[attach image of sheet\]
     
@@ -175,12 +175,16 @@ At the beginning of the football season there are many things to do that can be 
         *   Each time a feature sponsor ad, set of sponsor blurbs, stadium banner sponsor reader, or any sort of ad is played, record the time on your script. I like to write the time next to the ad on the script (ex., 6:46 next to “play sponsor blurbs” on the script) so I know which time matches with which ad.
 *   At the end of a sports season, you’ll also have to make a spreadsheet or word document logging all the times sponsor ads have been played. It’ll look like this; listing which sponsor ad played when and how many times it was played at each game. You also need to include exactly which businesses
 *   When it comes to the football season this is the most important job you have, the script if done properly allows the football game to run smoothly.
+*   It is so important to make sure the script is well organized and that you collect the proper information for it each week
 *   At the beginning of the football season you will make one from scratch that you will use as a template for the rest of the year.
+*   Who’ll you need to contact for scripts-
     *   Ms DeLong handles the stadium sponsors. Email her at the beginning of the year for a list of our sponsors, and who will be featured at every game
     *   Mr. Rohacik (Monarchs), Mr. Geocke, and Mr Haselhorst (Titans), are the announcers for football. After you finish the script, send it to them so they can review and edit it if necessary.
     *   Mr. Lewandowski and Mr. Nichols are the NJROTC commanders. Make sure you have the names of who’s presenting the flags at each game. Sometimes the announcers have those names, but don’t count on them.
 *   Print out 3 copies, one for the announcer(s), one for the producer, and one for you.
+*   Email [1011862@plcschools.org](mailto:1011862@plcschools.org) (or [elizabethbreinholt17@gmail.com](mailto:elizabethbreinholt17@gmail.com) after the 21-22 school year as I’ll be graduating) if you want an example script sent to you. Please also ask for a list of anyone you may need to contact throughout the year.
 *   As for dimensions, see above for content requirements.
+*   Throughout the year, you’ll be making title cards for games (which will be added to the background playlist for each game)
     *   There’s a title card template in StreamGFX > Football > Template. It outlines what to do in the template. This can work for any sport you want to make a thumbnail of, just change the background picture if necessary.
     *   Every time I’ve opened the template, it can’t find the PLHS logo. It’s in Logos > PLHS > PL\_Logo\_trans.png
 *   Get graphics for the dance team, cheer team, and band for each school. This will be in the contact list, or you can also ask Hoch or go to the school website and look under the staff directory. Allow a week or so for them to reply, and if not, just make something.
