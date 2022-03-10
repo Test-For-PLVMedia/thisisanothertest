@@ -1,4 +1,4 @@
-## [Click to View Subsections](634b7dbd-22cc-4fae-aa23-46ce69354802)
+## [Click to View Subsections](headers-h.7x6bd9wj7pkn)
 
 Glamor Shots
 ============
@@ -147,7 +147,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646863017433371&usg=AOvVaw2bU1Z5FYXS9lJ28LkLpi77) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646877750826122&usg=AOvVaw31eW2z1EBLVYqyJakcfcfU) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

@@ -1,4 +1,4 @@
-## [Click to View Subsections](43fdfb52-651c-4e53-b004-c0baef7fefcc)
+## [Click to View Subsections](headers-h.ubf5pc7fsdw4)
 
 Daktronics Video Board (Stadium)
 ================================
@@ -98,12 +98,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017454305&usg=AOvVaw20pd3sj07PyHuCBikcbz9l)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750841230&usg=AOvVaw2hrJqT-nOIR8k5drJWjMfU)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017455257&usg=AOvVaw3Fkk8CnXLELMDp0kpdslzL)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750841909&usg=AOvVaw3V-9nUNFOlb1sgB4fTctND)
 
 Event Prep
 ----------

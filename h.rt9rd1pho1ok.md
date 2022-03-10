@@ -1,4 +1,4 @@
-## [Click to View Subsections](90e80a0a-15b0-4133-a057-84881eaad8de)
+## [Click to View Subsections](headers-h.nyo502f205h5)
 
 News Package Standards
 ======================

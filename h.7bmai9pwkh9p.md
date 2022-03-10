@@ -1,4 +1,4 @@
-## [Click to View Subsections](4df76767-cc4f-4938-815a-e923e0eea1f1)
+## [Click to View Subsections](headers-h.sfpaor8716uz)
 
 Brand Identity
 ==============
@@ -26,7 +26,7 @@ Colors
 *   Titan Blue HEX: #003466
 *   Titan Grey HEX: #c9c9c9
 
-### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646863017193374&usg=AOvVaw3wufW0ZhdEGT0-_e_uD1NP)
+### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646877750646858&usg=AOvVaw2YeZMOKGxcxGPyD36noWqx)
 
 Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. Still should be more than good enough for 90% of projects.
 
@@ -154,13 +154,10 @@ End card
 
 To add an end card
 
-        -Open the server
-
-        -Go to logos
-
-        -Go to PLV Media Logo
-
-        -Go to EndCard
+*   Open the server
+*   Go to logos
+*   Go to PLV Media Logo
+*   Go to EndCard
 
 To use the premade PLV Media outro (which I would strongly suggest) use endcardvideo7.mp4.  Use ENDCARD\_7.png for just the image.
 

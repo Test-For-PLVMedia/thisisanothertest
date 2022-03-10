@@ -1,4 +1,4 @@
-## [Click to View Subsections](48a98dd3-567d-4a15-8241-9cbe54ab216b)
+## [Click to View Subsections](headers-h.fxhc9g3do9va)
 
 About This Manual
 =================
@@ -36,6 +36,8 @@ Contributors
 *   Charlie Breinholt
     *   Daktronics Video Board
     *   Adobe Audition
+*   Mikee Naegele
+    *   End Card
 
 Viewing Recommendations
 -----------------------

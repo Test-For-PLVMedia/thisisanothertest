@@ -1,4 +1,4 @@
-## [Click to View Subsections](cf213dd4-a69f-4ed0-a1b8-906a391a3161)
+## [Click to View Subsections](headers-h.1mhv4uau4noj)
 
 After Effects
 =============
@@ -55,18 +55,18 @@ In the Beginner section of After Effects you will learn how to use Keyframes, ap
 
 ### Keyframing
 
-Before we dive into how to set keyframes and how to add cool transitions onto them you need to know how we use keyframes and what they are used for. The specific use of a keyframe is to animate either a Effect or preset overtime. You can move an object to a different part of the composition over a specific amount of time. Watch the video [Here](https://www.google.com/url?q=https://drive.google.com/file/d/16FxaEFOHqL3FkwYwj78kSPjlF4RKJTjf/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017274385&usg=AOvVaw3I6JuFhdsYDW-srw42wjHH)! Showing how to make simple keyframes to change size position and rotation, if you want to follow along watch the keyboard overlay!
+Before we dive into how to set keyframes and how to add cool transitions onto them you need to know how we use keyframes and what they are used for. The specific use of a keyframe is to animate either a Effect or preset overtime. You can move an object to a different part of the composition over a specific amount of time. Watch the video [Here](https://www.google.com/url?q=https://drive.google.com/file/d/16FxaEFOHqL3FkwYwj78kSPjlF4RKJTjf/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750699993&usg=AOvVaw3aGIxKjiHRS8MD9W1c47-k)! Showing how to make simple keyframes to change size position and rotation, if you want to follow along watch the keyboard overlay!
 
 ### Rotation keyframing
 
-Above i showed you general Keyframing for everything, this one will specifically be based on rotation of objects shapes etc. Follow along [here](https://www.google.com/url?q=https://drive.google.com/file/d/1N0ZW3AjIYJMnCPE4o-1nEFk68wbwPvAM/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017275376&usg=AOvVaw1IzsA5-w_FxSWeGit0pV1X) to learn more about rotation.
+Above i showed you general Keyframing for everything, this one will specifically be based on rotation of objects shapes etc. Follow along [here](https://www.google.com/url?q=https://drive.google.com/file/d/1N0ZW3AjIYJMnCPE4o-1nEFk68wbwPvAM/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750700698&usg=AOvVaw1qHhAebJoYlUIk9rAqMhzk) to learn more about rotation.
 
 Intermediate
 ------------
 
 ### About
 
-[Here](https://www.google.com/url?q=https://drive.google.com/file/d/12H3kdSekXKsddSTmfBt0R3vQ9IlrQI4z/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017276163&usg=AOvVaw3eNo_88TLwnahpDn12VQQg) i will show you how to make Text using saber Plugin as well as using different aspects of the effect as well.
+[Here](https://www.google.com/url?q=https://drive.google.com/file/d/12H3kdSekXKsddSTmfBt0R3vQ9IlrQI4z/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750701801&usg=AOvVaw0X50LrT3cDOMxZnGbgO-Nh) i will show you how to make Text using saber Plugin as well as using different aspects of the effect as well.
 
 Presets in Saber- you have a wide variety of presets that can be used inside the one effect itself where you can change the size, color, texture and or the way the effect moves. Using the keyframe watch located in the corner you can change the Intensity glow color, glow bias and glow size over time. you have the ability to millions of different possibilities once you are able to understand how keyframes work.
 
@@ -89,19 +89,19 @@ Resources
 
 Card template- M:\\PLVMediaGuide\\AfterEffects\\Card Template
 
-[Saber](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJ_oT9erINxA&sa=D&source=editors&ust=1646863017278528&usg=AOvVaw3x_0rjmZIKxTbJ1OCzpXYs)
+[Saber](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJ_oT9erINxA&sa=D&source=editors&ust=1646877750703770&usg=AOvVaw0PETXTr4t70ohBD8QJvoyE)
 
 \-How to use saber plugin
 
-[Glitch Effect](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg99TD5ZTKEg&sa=D&source=editors&ust=1646863017279090&usg=AOvVaw23CUef1UHh5bZ6jx22KWxA)
+[Glitch Effect](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg99TD5ZTKEg&sa=D&source=editors&ust=1646877750704299&usg=AOvVaw1GCT506wr2kWKzbcc1UNBm)
 
 \-How to make your own glitch effect from scratch
 
-[Logo Effects](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq6TMY76KPX8&sa=D&source=editors&ust=1646863017279582&usg=AOvVaw0Z2OrXQCP_3S6eLF8nxW38)
+[Logo Effects](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq6TMY76KPX8&sa=D&source=editors&ust=1646877750704884&usg=AOvVaw2RFswXJVfyHXWGiifobqgp)
 
 \-How to make cool animations with your logos.
 
-[Signature Tracing](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrUyTt2d3MIA&sa=D&source=editors&ust=1646863017280026&usg=AOvVaw2VcHuDsyE6D-RplSskpNXc)
+[Signature Tracing](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrUyTt2d3MIA&sa=D&source=editors&ust=1646877750705294&usg=AOvVaw3w27GuNSzyWcaH0Od4U07H)
 
 \-How to do the Autograph trace effect from the Card Template
 

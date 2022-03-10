@@ -1,4 +1,4 @@
-## [Click to View Subsections](e6c47a6d-73ab-4bfd-9e8b-4ade765cafeb)
+## [Click to View Subsections](headers-h.7bmai9pwkh9p)
 
 Cameras
 =======
@@ -37,7 +37,7 @@ We use JVC cameras primarily for streams.
 
 ### Setup
 
-[JVC Camera and Manfroto Streaming Tripod instructions](https://www.google.com/url?q=https://docs.google.com/document/d/1tEeGrExoEoM0UwCHkSWTLOjBPLeZc--sqhEDyHGrvYc/edit?usp%3Dsharing&sa=D&source=editors&ust=1646863017217987&usg=AOvVaw0ePUPI6GpzUsip8WQPjrKd)
+[JVC Camera and Manfroto Streaming Tripod instructions](https://www.google.com/url?q=https://docs.google.com/document/d/1tEeGrExoEoM0UwCHkSWTLOjBPLeZc--sqhEDyHGrvYc/edit?usp%3Dsharing&sa=D&source=editors&ust=1646877750661259&usg=AOvVaw047A6qG7DkxORoFk7wrW3I)
 
 ### Common Issues
 
