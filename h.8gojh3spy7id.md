@@ -10,7 +10,7 @@ Scorevision Video Boards (Gymnasiums)
 Web Interface
 -------------
 
-The web interface is where you can add, sort, and prepare media to be shown, configure board settings, and add games. Log in at [app.scorevision.com](https://www.google.com/url?q=https://app.scorevision.com/&sa=D&source=editors&ust=1646877750861817&usg=AOvVaw09hHqS8ktLMudaUjgd_XL4).
+The web interface is where you can add, sort, and prepare media to be shown, configure board settings, and add games. Log in at [app.scorevision.com](https://www.google.com/url?q=https://app.scorevision.com/&sa=D&source=editors&ust=1646885123408617&usg=AOvVaw0oM4FEEjNRM3IBJPkMQK4W).
 
 ### Changing/Adding New Seasons
 

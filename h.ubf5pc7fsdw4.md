@@ -151,7 +151,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646877750826122&usg=AOvVaw31eW2z1EBLVYqyJakcfcfU) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646885123390414&usg=AOvVaw2ZlIcbGTbuioObpfSQo7gr) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

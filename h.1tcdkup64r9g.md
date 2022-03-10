@@ -41,7 +41,7 @@ We use JVC cameras primarily for streams.
 
 ### Setup
 
-[JVC Camera and Manfroto Streaming Tripod instructions](https://www.google.com/url?q=https://docs.google.com/document/d/1tEeGrExoEoM0UwCHkSWTLOjBPLeZc--sqhEDyHGrvYc/edit?usp%3Dsharing&sa=D&source=editors&ust=1646877750661259&usg=AOvVaw047A6qG7DkxORoFk7wrW3I)
+[JVC Camera and Manfroto Streaming Tripod instructions](https://www.google.com/url?q=https://docs.google.com/document/d/1tEeGrExoEoM0UwCHkSWTLOjBPLeZc--sqhEDyHGrvYc/edit?usp%3Dsharing&sa=D&source=editors&ust=1646885123300768&usg=AOvVaw2dYzdSdd8MPAxgDNlr3mmW)
 
 ### Common Issues
 

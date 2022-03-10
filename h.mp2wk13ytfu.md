@@ -102,12 +102,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750841230&usg=AOvVaw2hrJqT-nOIR8k5drJWjMfU)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646885123398621&usg=AOvVaw2vs3vDnCAQ1q1PRt_8uhPR)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646877750841909&usg=AOvVaw3V-9nUNFOlb1sgB4fTctND)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646885123399197&usg=AOvVaw15pvY5knMaxjYM6QAUhbRy)
 
 Event Prep
 ----------
