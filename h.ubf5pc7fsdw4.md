@@ -1,3 +1,6 @@
+---
+title:The PLV Media Manual
+---
 ## [Click to View Subsections](headers-h.7x6bd9wj7pkn)
 
 Glamor Shots

@@ -1,3 +1,6 @@
+---
+title:The PLV Media Manual
+---
 ## [Click to View Subsections](headers-h.1tcdkup64r9g)
 
 Tripods

@@ -1,3 +1,6 @@
+---
+title:The PLV Media Manual
+---
 ## [Click to View Subsections](headers-h.mp2wk13ytfu)
 
 Scorevision Video Boards (Gymnasiums)
