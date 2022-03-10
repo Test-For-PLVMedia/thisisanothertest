@@ -1,6 +1,7 @@
 ---
-title:The PLV Media Manual
+title: The PLV Media Manual
 ---
+
 ## [Click to View Subsections](headers-h.fxhc9g3do9va)
 
 About This Manual

@@ -1,6 +1,7 @@
 ---
-title:The PLV Media Manual
+title: The PLV Media Manual
 ---
+
 ## [Click to View Subsections](headers-h.ubf5pc7fsdw4)
 
 Daktronics Video Board (Stadium)

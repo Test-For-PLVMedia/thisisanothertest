@@ -1,6 +1,7 @@
 ---
-title:The PLV Media Manual
+title: The PLV Media Manual
 ---
+
 ## [Click to View Subsections](headers-h.saa8t5379qfj)
 
 Equipment

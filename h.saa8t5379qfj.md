@@ -1,6 +1,7 @@
 ---
-title:The PLV Media Manual
+title: The PLV Media Manual
 ---
+
 ## [Click to View Subsections](headers-h.kwhq4y8y0apo)
 
 MOAC (Mother of all Cases)

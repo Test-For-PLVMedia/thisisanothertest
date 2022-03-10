@@ -1,6 +1,7 @@
 ---
-title:The PLV Media Manual
+title: The PLV Media Manual
 ---
+
 ## [Click to View Subsections](headers-h.nyo502f205h5)
 
 News Package Standards
