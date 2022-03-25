@@ -9,7 +9,14 @@ Welcome to the PLV Media Manual, a guide to all things Media Academy! Click one 
 _Site Last Updated: Thu Mar 10 2022 10:57:15 GMT-0600 (Central Standard Time)_
 
 
-{% include head.html %}
+{% if page.tipue_search_active or layout.tipue_search_active -%}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+<script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+<script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+{% endif -%}
+
 Search the guide:
 <form action="{{ page.url | relative_url }}">
   <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
